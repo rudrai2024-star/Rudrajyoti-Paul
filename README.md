@@ -135,15 +135,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rudrai2024-star/rudrai2024-star/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-
 ## 📊 GitHub Stats
 
 <p align="center">
