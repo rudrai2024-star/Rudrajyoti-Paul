@@ -1,3 +1,29 @@
+<p align="center">
+  <img src="YOUR_BANNER_LINK_HERE" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Rudrajyoti Paul</h1>
+<h3 align="center">🚀 AI Developer | Python Programmer | IoT Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&size=22&lines=AI+%7C+ML+Developer;Python+Developer;IoT+Explorer;Building+Real+World+Projects;Future+Tech+Innovator" />
+</p>
+
+---
+
+## 🧠 About Me
+- 🎓 Student at **SRM Institute of Science and Technology, Chennai**
+- 💡 Strong interest in **Artificial Intelligence, Machine Learning & IoT**
+- 🔬 Currently working on **AI-Based Drug Interaction Prediction System**
+- ⚙️ Hands-on with **Local AI (Ollama + LLMs)**
+- 📚 Studying:
+  - Data Structures & Algorithms  
+  - Formal Languages & Automata  
+  - Internet of Things  
+- 🚀 Goal: Build impactful AI systems solving real-world problems  
+
+---
+
 ## 🛠️ Tech Stack
 
 ---
@@ -67,3 +93,95 @@
 - Sensor Integration  
 - Real-time Data Processing  
 - Automation Systems  
+
+---
+
+## 🚀 Featured Projects (Detailed)
+
+### 📈 Stock Market Prediction System
+**Tech Stack:** Python, Pandas, NumPy, Machine Learning  
+- Predicts stock trends using historical data  
+- Applies ML models for forecasting  
+- Focus on financial analytics  
+
+---
+
+### 🔬 Drug-Drug Interaction Prediction System
+**Tech Stack:** Python, Scikit-learn, Pandas, SMILES Processing  
+- Predicts interactions between drugs  
+- Uses molecular structure representation  
+- Focused on healthcare AI  
+
+---
+
+### 🚗 Car Pool System
+**Tech Stack:** Web Technologies, Backend Logic, Database  
+- Ride-sharing platform for efficient transport  
+- Focus on optimization & real-time coordination  
+
+---
+
+### 🌐 AI Website Generator
+**Tech Stack:** Python, AI APIs, Frontend Design  
+- Automatically generates websites using AI  
+- Focus on UI/UX automation  
+
+---
+
+### 📡 IoT Smart Systems
+**Tech Stack:** Sensors, Microcontrollers, Data Processing  
+- Built automation systems using IoT  
+- Real-time monitoring & control  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rudrai2024-star&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrai2024-star&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudrai2024-star&theme=tokyo-night" />
+</p>
+
+---
+
+## 🏆 Achievements & Highlights
+- 🚀 Built multiple AI & IoT based projects  
+- 🧠 Strong problem-solving and algorithmic thinking  
+- ⚡ Hands-on experience with real-world applications  
+- 🔥 Actively exploring advanced AI systems  
+
+---
+
+## 🔥 Current Focus
+- 🤖 Machine Learning & AI Systems  
+- 🧠 Data Structures & Algorithms  
+- ⚙️ Local AI (Ollama + LLMs)  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rudrajyoti-paul">
+    <img src="https://img.shields.io/badge/LinkedIn-Rudrajyoti%20Paul-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/rudrai2024-star">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rudrai2024-star&label=Profile%20Views&color=00F7FF&style=flat" />
+</p>
