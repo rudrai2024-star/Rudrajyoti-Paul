@@ -1,57 +1,85 @@
-<h1 align="center">Hi 👋, I'm Rudra</h1>
-<h3 align="center">🚀 AI Developer | Python Enthusiast | Building the Future</h3>
+<p align="center">
+  <img src="YOUR_BANNER_LINK_HERE" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Rudrajyoti Paul</h1>
+<h3 align="center">🚀 AI Developer | Python Programmer | IoT Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&size=22&lines=AI+%7C+ML+Developer;Python+%7C+IoT+Explorer;Building+Cool+Stuff+🚀;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&size=22&lines=AI+%7C+ML+Developer;Python+Developer;IoT+Explorer;Building+Real+World+Projects;Future+Tech+Innovator" />
 </p>
 
 ---
 
 ## 🧠 About Me
-- 🎓 Student @ **SRM IST, Chennai**
-- 🤖 Focused on **AI, Machine Learning & IoT**
-- 🔬 Currently building **AI Drug Interaction System**
-- 📈 Learning **DSA + Advanced Python**
-- 🧩 Love solving real-world problems using tech
-- ⚡ Fun fact: I code better at night 🌙
+- 🎓 Student at **SRM Institute of Science and Technology, Chennai**
+- 💡 Strong interest in **Artificial Intelligence, Machine Learning & IoT**
+- 🔬 Currently working on **AI-Based Drug Interaction Prediction System**
+- ⚙️ Hands-on with **Local AI (Ollama + LLMs)**
+- 📚 Studying:
+  - Data Structures & Algorithms  
+  - Formal Languages & Automata  
+  - Internet of Things  
+- 🚀 Goal: Build impactful AI systems solving real-world problems  
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
-### 💻 Languages
+### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
 
-### ⚙️ Tools
+---
+
+### 🤖 AI / ML
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+
+---
+
+### 🌐 Development & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=data&logoColor=white)
-
-### 📚 Currently Learning
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
-![Data Structures](https://img.shields.io/badge/Data_Structures-008000?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
 
 ---
 
-## 🚀 Featured Projects
+### 📡 IoT & Systems
+- Sensors & Embedded Systems  
+- Real-time data processing  
+- Automation systems  
 
-### 🔬 AI Drug Interaction Predictor
-- 🧪 Predicts drug interactions using ML models  
-- ⚙️ Built with Python + Data Processing  
-- 🎯 Focus: Healthcare + AI  
+---
+
+## 🚀 Featured Projects (Detailed)
+
+### 🔬 AI Drug Interaction Prediction System
+**Tech Stack:** Python, Pandas, Scikit-learn, SMILES Processing  
+- Predicts interactions between drugs  
+- Uses molecular data representation (SMILES)  
+- Focused on healthcare AI applications  
+
+---
 
 ### 🌐 AI Website Generator
-- 🤖 Generates websites using AI  
-- 🎨 Focus on UI/UX + automation  
-
-### 📡 IoT Smart Systems
-- 🔌 Real-time sensor-based automation projects  
-- 📊 Data-driven decision making  
+**Tech Stack:** Python, AI APIs, Frontend Design  
+- Automatically generates website layouts using AI  
+- Focus on UI/UX + automation  
 
 ---
 
-## 📊 GitHub Analytics
+### 📡 IoT Smart Systems
+**Tech Stack:** Sensors, Microcontrollers, Data Processing  
+- Built real-time monitoring systems  
+- Applied automation logic using IoT  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -68,26 +96,18 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 🔥 What I'm Working On
-- 🚀 Scaling AI projects for real-world use  
-- 🧠 Improving problem-solving skills (DSA)  
-- 🤖 Exploring local AI models (Ollama setup)  
+## 🏆 Achievements & Highlights
+- 🚀 Developed multiple AI-based projects  
+- 🧠 Strong foundation in algorithms & problem solving  
+- ⚡ Hands-on experience with real-world systems  
+- 🔥 Actively exploring cutting-edge AI tools  
 
 ---
 
-## 💬 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+## 🔥 Current Focus
+- 🤖 Advanced Machine Learning  
+- 🧠 DSA for coding interviews  
+- ⚙️ Local AI systems (Ollama + LLMs)  
 
 ---
 
